@@ -1,20 +1,20 @@
 [
   {
-    "name": "Scumcraft",
+    "name": "Scumcraft: Legacy",
     "url": "legacy.scumcraft.starlightcommunity.net",
     "icon": "https://static.wixstatic.com/media/2d311a_ff5d4c5be50b4692a391da67869d1b95~mv2.png",
-    "slug": "scumcraft",
+    "slug": "scumcraft-legacy",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 53,
-    "timeDay": 53,
-    "timeWeek": 53,
-    "timeMonth": 53,
-    "timeYear": 53,
+    "time": 28,
+    "timeDay": 28,
+    "timeWeek": 28,
+    "timeMonth": 28,
+    "timeYear": 28,
     "dailyMinutesDown": {}
   }
 ]
