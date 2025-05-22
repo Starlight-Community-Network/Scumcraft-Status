@@ -5,7 +5,7 @@ skipDeleteIssues: true
 user-agent: upptime-bot
 
 sites:
-  - name: Scumcraft: Legacy
+  - name: "Scumcraft: Legacy"
     check: "tcp-ping"
     url: legacy.scumcraft.starlightcommunity.net
     port: 25565
